@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://jackyogi.github.com/sitemap.xml 
+Sitemap: http://ptLong.github.com/sitemap.xml 
